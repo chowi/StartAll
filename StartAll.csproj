@@ -5,6 +5,7 @@
     <TargetFramework>net5.0</TargetFramework>
     <Configurations>net-5.0-debug;net-5.0-release</Configurations>
     <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+    <OutputPath>$(Configuration)</OutputPath>
   </PropertyGroup>
 
 </Project>
